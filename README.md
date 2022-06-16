@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @javioroz
+- 💼 I'm currently working as scrum master and business consultant of MES solutions for homeappliances factories.
 - 👀 I’m interested in blockchain, crypto projects, and open source projects in general.
 - 🌱 I’m currently learning smart contract development and frontend development.
-- 💞️ I’m looking to collaborate on whatever project where I can help.
+- 💞️ I’m looking to collaborate on some blockchain project.
 - 📫 How to reach me: javioroz@proton.me
 
 <!---
